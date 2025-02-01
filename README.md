@@ -40,3 +40,4 @@ Assignment: Useless
 Flag: picoCTF{us3l3ss_ch4ll3ng3_3xpl0it3d_6140}
 
 Solution: The SSH work directory was accessed via webshell commands. Unable to open the useless file directly, the man useless command was used to access the manual and discover the flag.
+---------------------------------------------------------------------------
